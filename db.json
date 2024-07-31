@@ -1,0 +1,97 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "image": "http://localhost:5173/photos/bridge.png",
+      "author": "Greg Hooper",
+      "tags": ["New York", "Bridge", "Skyline", "Cars"]
+    },
+    {
+      "id": 2,
+      "image": "http://localhost:5173/photos/building.png",
+      "author": "Charlene Thomas",
+      "tags": ["Missouri", "Building", "Trees"]
+    },
+    {
+      "id": 3,
+      "image": "http://localhost:5173/photos/skyline.png",
+      "author": "Greg Hooper",
+      "tags": ["New York", "Building", "Skyline"]
+    },
+    {
+      "id": 4,
+      "image": "http://localhost:5173/photos/offices.png",
+      "author": "Greg Hooper",
+      "tags": ["Texas", "Buildings", "Skyline"]
+    },
+    {
+      "id": 5,
+      "image": "http://localhost:5173/photos/museum.png",
+      "author": "Greg Hooper",
+      "tags": ["Arizona", "Museum", "Building"]
+    },
+    {
+      "id": 6,
+      "image": "http://localhost:5173/photos/park.png",
+      "author": "Greg Hooper",
+      "tags": ["Florida", "Building"]
+    },
+    {
+      "id": 7,
+      "image": "http://localhost:5173/photos/cathedral.png",
+      "author": "Greg Hooper",
+      "tags": ["Washington", "Cathedral"]
+    },
+    {
+      "id": 8,
+      "image": "http://localhost:5173/photos/house.png",
+      "author": "Greg Hooper",
+      "tags": ["Oregon", "Building"]
+    },
+    {
+      "id": 9,
+      "image": "http://localhost:5173/photos/tree.png",
+      "author": "Maxime Deserres",
+      "tags": ["Oregon", "House"]
+    },
+    {
+      "id": 10,
+      "image": "http://localhost:5173/photos/subway.png",
+      "author": "Greg Hooper",
+      "tags": ["Illinois", "Subway", "Buildings", "Bridge"]
+    },
+    {
+      "id": 11,
+      "image": "http://localhost:5173/photos/balcony.png",
+      "author": "Greg Hooper",
+      "tags": ["Texas", "House", "Buildings"]
+    },
+    {
+      "id": 12,
+      "image": "http://localhost:5173/photos/taxi.png",
+      "author": "Greg Hooper",
+      "tags": ["New York", "Taxi", "Buildings", "Cars"]
+    }
+  ],
+  "tags": [
+    "Arizona",
+    "Bridge",
+    "Building",
+    "Buildings",
+    "Cars",
+    "Cathedral",
+    "Florida",
+    "House",
+    "Illinois",
+    "Missouri",
+    "Museum",
+    "New York",
+    "Oregon",
+    "Skyline",
+    "Subway",
+    "Taxi",
+    "Texas",
+    "Trees",
+    "Washington"
+  ]
+}
