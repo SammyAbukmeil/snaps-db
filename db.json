@@ -1,76 +1,279 @@
 {
   "photos": [
     {
-      "id": 1,
+      "id": "6be619d5-de2c-4f62-ac1b-bd2e36d71ab9",
       "image": "http://localhost:5173/photos/bridge.png",
       "author": "Greg Hooper",
-      "tags": ["New York", "Bridge", "Skyline", "Cars"]
+      "tags": [
+        "New York",
+        "Bridge",
+        "Skyline",
+        "Cars"
+      ],
+      "comments": [
+        {
+          "name": "Terry Wong",
+          "comment": "What a great angle! It really gives a new perspective on this location.",
+          "id": "f3aa5dd5-4c75-4a74-a410-c59d56d04697",
+          "timestamp": 1722518654455
+        }
+      ]
     },
     {
-      "id": 2,
+      "id": "9b56ac3a-b679-4790-a253-8f9db96f6a73",
       "image": "http://localhost:5173/photos/building.png",
       "author": "Charlene Thomas",
-      "tags": ["Missouri", "Building", "Trees"]
+      "tags": [
+        "Missouri",
+        "Building",
+        "Trees"
+      ],
+      "comments": [
+        {
+          "name": "Jamie Smith",
+          "comment": "The photographer did a great job with this one.",
+          "id": "d37b5527-fa5e-42c2-9ca4-31a67542541d",
+          "timestamp": 1722518701126
+        }
+      ]
     },
     {
-      "id": 3,
+      "id": "6b970d4a-f00a-4ef2-ba74-0f8842dc849d",
       "image": "http://localhost:5173/photos/skyline.png",
       "author": "Greg Hooper",
-      "tags": ["New York", "Building", "Skyline"]
+      "tags": [
+        "New York",
+        "Building",
+        "Skyline"
+      ],
+      "comments": [
+        {
+          "name": "Alex Johnson",
+          "comment": "What a great angle! It really gives a new perspective on this location.",
+          "id": "aac99546-2b08-4527-afaf-e000442868ee",
+          "timestamp": 1722518729085
+        },
+        {
+          "name": "Sam Kim",
+          "comment": "Stunning shot! The colors and lighting are perfect.",
+          "id": "08160c97-5536-4053-be2f-039cb7373552",
+          "timestamp": 1722518658043
+        },
+        {
+          "name": "Casey Lee",
+          "comment": "This picture perfectly captures the essence of the city.",
+          "id": "efbf1aa1-0244-4570-a677-72d7691b008c",
+          "timestamp": 1722518701396
+        }
+      ]
     },
     {
-      "id": 4,
+      "id": "a0e0c48b-2d77-4919-8037-86df8dacd551",
       "image": "http://localhost:5173/photos/offices.png",
       "author": "Greg Hooper",
-      "tags": ["Texas", "Buildings", "Skyline"]
+      "tags": [
+        "Texas",
+        "Buildings",
+        "Skyline"
+      ],
+      "comments": [
+        {
+          "name": "Terry Wong",
+          "comment": "This is a fantastic photo! The composition is amazing.",
+          "id": "2e4718f5-0603-4377-b30b-b6d9e290aa74",
+          "timestamp": 1722518702177
+        },
+        {
+          "name": "Jordan Brown",
+          "comment": "The photographer did a great job with this one.",
+          "id": "f508fb8f-dba0-417b-845d-f0801795a14a",
+          "timestamp": 1722518685131
+        },
+        {
+          "name": "Jamie Smith",
+          "comment": "The photographer did a great job with this one.",
+          "id": "5b321591-89f1-4545-aa13-147e9f62f89b",
+          "timestamp": 1722518694991
+        }
+      ]
     },
     {
-      "id": 5,
+      "id": "03c719cd-ae9f-4eff-b79a-087c2d827a6b",
       "image": "http://localhost:5173/photos/museum.png",
       "author": "Greg Hooper",
-      "tags": ["Arizona", "Museum", "Building"]
+      "tags": [
+        "Arizona",
+        "Museum",
+        "Building"
+      ],
+      "comments": [
+        {
+          "name": "Casey Lee",
+          "comment": "What a great angle! It really gives a new perspective on this location.",
+          "id": "ffe8efba-435f-4304-afb7-67229606accc",
+          "timestamp": 1722518675157
+        }
+      ]
     },
     {
-      "id": 6,
+      "id": "9aa1ed02-221d-4b11-937f-9f5d9d461990",
       "image": "http://localhost:5173/photos/park.png",
       "author": "Greg Hooper",
-      "tags": ["Florida", "Building"]
+      "tags": [
+        "Florida",
+        "Building"
+      ],
+      "comments": [
+        {
+          "name": "Sam Kim",
+          "comment": "This is a fantastic photo! The composition is amazing.",
+          "id": "922f13d0-2488-4feb-ab80-101a7db0f9c8",
+          "timestamp": 1722518741428
+        },
+        {
+          "name": "Jamie Smith",
+          "comment": "I love the details captured here, especially the architecture.",
+          "id": "0a6cab8b-de86-43cf-bd55-0fd9ce2d3edb",
+          "timestamp": 1722518699024
+        },
+        {
+          "name": "Casey Lee",
+          "comment": "This picture perfectly captures the essence of the city.",
+          "id": "280be87a-837a-4d92-8800-6fe51f596ef6",
+          "timestamp": 1722518745262
+        }
+      ]
     },
     {
-      "id": 7,
+      "id": "469cdd8b-1050-4839-be49-9a0f752dd3e0",
       "image": "http://localhost:5173/photos/cathedral.png",
       "author": "Greg Hooper",
-      "tags": ["Washington", "Cathedral"]
+      "tags": [
+        "Washington",
+        "Cathedral"
+      ],
+      "comments": [
+        {
+          "name": "Alex Johnson",
+          "comment": "This picture perfectly captures the essence of the city.",
+          "id": "d8508408-ae73-4a28-8050-6d344d497e24",
+          "timestamp": 1722518737081
+        },
+        {
+          "name": "Jamie Smith",
+          "comment": "This picture perfectly captures the essence of the city.",
+          "id": "d81998cb-5b0c-4626-aaee-068e60a3011f",
+          "timestamp": 1722518741651
+        }
+      ]
     },
     {
-      "id": 8,
+      "id": "185398d2-d473-4d85-9209-257159e3b967",
       "image": "http://localhost:5173/photos/house.png",
       "author": "Greg Hooper",
-      "tags": ["Oregon", "Building"]
+      "tags": [
+        "Oregon",
+        "Building"
+      ],
+      "comments": [
+        {
+          "name": "Jordan Brown",
+          "comment": "This is a fantastic photo! The composition is amazing.",
+          "id": "2e6f79a3-21cf-4937-b932-2f0a6e318caf",
+          "timestamp": 1722518749972
+        }
+      ]
     },
     {
-      "id": 9,
+      "id": "7edbc865-4c65-4acc-858c-aa056e9058d2",
       "image": "http://localhost:5173/photos/tree.png",
       "author": "Maxime Deserres",
-      "tags": ["Oregon", "House"]
+      "tags": [
+        "Oregon",
+        "House"
+      ],
+      "comments": [
+        {
+          "name": "Jordan Brown",
+          "comment": "What a great angle! It really gives a new perspective on this location.",
+          "id": "c6c9fc57-d2a8-4e02-b6e4-f39c7befff0c",
+          "timestamp": 1722518730566
+        }
+      ]
     },
     {
-      "id": 10,
+      "id": "144aea91-f594-4dd5-8819-e13cd733d795",
       "image": "http://localhost:5173/photos/subway.png",
       "author": "Greg Hooper",
-      "tags": ["Illinois", "Subway", "Buildings", "Bridge"]
+      "tags": [
+        "Illinois",
+        "Subway",
+        "Buildings",
+        "Bridge"
+      ],
+      "comments": [
+        {
+          "name": "Terry Wong",
+          "comment": "Stunning shot! The colors and lighting are perfect.",
+          "id": "e995aa09-4d81-48ce-a177-7c2711437876",
+          "timestamp": 1722518684173
+        },
+        {
+          "name": "Casey Lee",
+          "comment": "The photographer did a great job with this one.",
+          "id": "2958559f-85c7-4c2d-b431-a94f65ba731a",
+          "timestamp": 1722518676743
+        }
+      ]
     },
     {
-      "id": 11,
+      "id": "216f17a2-427d-49b0-9b0f-d0b388480555",
       "image": "http://localhost:5173/photos/balcony.png",
       "author": "Greg Hooper",
-      "tags": ["Texas", "House", "Buildings"]
+      "tags": [
+        "Texas",
+        "House",
+        "Buildings"
+      ],
+      "comments": [
+        {
+          "name": "Jamie Smith",
+          "comment": "Stunning shot! The colors and lighting are perfect.",
+          "id": "5f5f6817-35da-465f-958a-394d1e00cbaf",
+          "timestamp": 1722518690282
+        }
+      ]
     },
     {
-      "id": 12,
+      "id": "0c5860ee-f515-4773-8a80-636e598679f9",
       "image": "http://localhost:5173/photos/taxi.png",
       "author": "Greg Hooper",
-      "tags": ["New York", "Taxi", "Buildings", "Cars"]
+      "tags": [
+        "New York",
+        "Taxi",
+        "Buildings",
+        "Cars"
+      ],
+      "comments": [
+        {
+          "name": "Jordan Brown",
+          "comment": "This picture perfectly captures the essence of the city.",
+          "id": "2f9819a8-5648-4e32-a0a6-865f0ed52adc",
+          "timestamp": 1722518693392
+        },
+        {
+          "name": "Alex Johnson",
+          "comment": "What a great angle! It really gives a new perspective on this location.",
+          "id": "80fdd7b3-9db4-4258-a406-452344a0c185",
+          "timestamp": 1722518676442
+        },
+        {
+          "name": "Terry Wong",
+          "comment": "This is a fantastic photo! The composition is amazing.",
+          "id": "59f6aff0-f9d4-4aee-bee2-46618bbcf6e4",
+          "timestamp": 1722518735003
+        }
+      ]
     }
   ],
   "tags": [
