@@ -4,6 +4,7 @@
       "id": "6be619d5-de2c-4f62-ac1b-bd2e36d71ab9",
       "image": "http://localhost:5173/photos/bridge.png",
       "author": "Greg Hooper",
+      "likes": 360,
       "tags": [
         "New York",
         "Bridge",
@@ -23,6 +24,7 @@
       "id": "9b56ac3a-b679-4790-a253-8f9db96f6a73",
       "image": "http://localhost:5173/photos/building.png",
       "author": "Charlene Thomas",
+      "likes": 1971,
       "tags": [
         "Missouri",
         "Building",
@@ -41,6 +43,7 @@
       "id": "6b970d4a-f00a-4ef2-ba74-0f8842dc849d",
       "image": "http://localhost:5173/photos/skyline.png",
       "author": "Greg Hooper",
+      "likes": 766,
       "tags": [
         "New York",
         "Building",
@@ -71,6 +74,7 @@
       "id": "a0e0c48b-2d77-4919-8037-86df8dacd551",
       "image": "http://localhost:5173/photos/offices.png",
       "author": "Greg Hooper",
+      "likes": 1534,
       "tags": [
         "Texas",
         "Buildings",
@@ -101,6 +105,7 @@
       "id": "03c719cd-ae9f-4eff-b79a-087c2d827a6b",
       "image": "http://localhost:5173/photos/museum.png",
       "author": "Greg Hooper",
+      "likes": 1988,
       "tags": [
         "Arizona",
         "Museum",
@@ -119,6 +124,7 @@
       "id": "9aa1ed02-221d-4b11-937f-9f5d9d461990",
       "image": "http://localhost:5173/photos/park.png",
       "author": "Greg Hooper",
+      "likes": 1942,
       "tags": [
         "Florida",
         "Building"
@@ -148,6 +154,7 @@
       "id": "469cdd8b-1050-4839-be49-9a0f752dd3e0",
       "image": "http://localhost:5173/photos/cathedral.png",
       "author": "Greg Hooper",
+      "likes": 708,
       "tags": [
         "Washington",
         "Cathedral"
@@ -171,6 +178,7 @@
       "id": "185398d2-d473-4d85-9209-257159e3b967",
       "image": "http://localhost:5173/photos/house.png",
       "author": "Greg Hooper",
+      "likes": 1662,
       "tags": [
         "Oregon",
         "Building"
@@ -188,6 +196,7 @@
       "id": "7edbc865-4c65-4acc-858c-aa056e9058d2",
       "image": "http://localhost:5173/photos/tree.png",
       "author": "Maxime Deserres",
+      "likes": 1500,
       "tags": [
         "Oregon",
         "House"
@@ -205,6 +214,7 @@
       "id": "144aea91-f594-4dd5-8819-e13cd733d795",
       "image": "http://localhost:5173/photos/subway.png",
       "author": "Greg Hooper",
+      "likes": 358,
       "tags": [
         "Illinois",
         "Subway",
@@ -230,6 +240,7 @@
       "id": "216f17a2-427d-49b0-9b0f-d0b388480555",
       "image": "http://localhost:5173/photos/balcony.png",
       "author": "Greg Hooper",
+      "likes": 588,
       "tags": [
         "Texas",
         "House",
@@ -248,6 +259,7 @@
       "id": "0c5860ee-f515-4773-8a80-636e598679f9",
       "image": "http://localhost:5173/photos/taxi.png",
       "author": "Greg Hooper",
+      "likes": 744,
       "tags": [
         "New York",
         "Taxi",
